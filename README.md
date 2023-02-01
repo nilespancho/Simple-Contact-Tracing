@@ -12,4 +12,4 @@ This was coded using PHP and MySQL as its database. This was a group project and
 ![Capture](https://user-images.githubusercontent.com/123933314/215924469-182af91d-5897-46e1-9e97-23db1f9b4ab1.JPG)
 
 ## Demo Video
-Uploading Group 1-Final Project Simple Contact Tracing Application.mp4…
+https://user-images.githubusercontent.com/123933314/216058689-2e68a467-6530-4cd8-ab16-323fa5cd66c7.mp4
