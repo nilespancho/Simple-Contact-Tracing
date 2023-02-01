@@ -9,6 +9,7 @@ This was coded using PHP and MySQL as its database. This was a group project and
 ![image (1)](https://user-images.githubusercontent.com/123933314/215923782-8311821e-2ea0-4f6d-88cb-f420813fea17.png)
 ![image (2)](https://user-images.githubusercontent.com/123933314/215923790-1ede99c4-dd3f-4d25-a939-1f87680e84f6.png)
 ![image (3)](https://user-images.githubusercontent.com/123933314/215923797-483fe64e-efb6-4806-9a35-f7013b17efcb.png)
+![Capture](https://user-images.githubusercontent.com/123933314/215924286-418b6558-fef2-42e1-b47d-1b9853ee89cc.JPG)
 
 ## Demo Video
 https://user-images.githubusercontent.com/123933314/215923863-b718cd9e-1bd0-4658-a750-158f7e1afe41.mp4
