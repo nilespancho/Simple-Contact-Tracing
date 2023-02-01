@@ -1,0 +1,92 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+form{
+    width: 500px;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.6);
+    box-shadow: 4px 2px 16px rgba(0, 0, 0, 0.4);
+    border-radius: 15px;
+
+}
+input{
+    display: block;
+    border: 2px solid #ccc;
+    width: 95%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+label{
+    color: #6C5B7B;
+    font-size: 18px;
+    padding: 10px;
+}
+
+button{
+    float: right;
+    background-color: #555;
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+}
+
+button:hover{
+    opacity: 0.7;
+}
+
+#reg_btn{
+    background-color: #F8B195;
+}
+
+#log_btn{
+    background-color: #F8B195;
+}
+
+
+.center_grid{
+    align-items: center;
+}
+
+.square {
+    width: 800px;
+    height: 250px;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.6);
+    box-shadow: 4px 2px 16px rgba(0, 0, 0, 0.4);
+    border-radius: 15px;
+  }
+table {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.6);
+    box-shadow: 4px 2px 16px rgba(0, 0, 0, 0.4);
+}
+td, th {
+
+    border: 1px solid #dddddd;
+  
+    text-align: left;
+  
+    padding: 8px;
+  
+  }
+  tr:nth-child(even) {
+
+    background-color: #dddddd;
+  
+  }
+    
