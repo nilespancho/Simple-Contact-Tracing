@@ -4,6 +4,9 @@
 
 This was coded using PHP and MySQL as its database. This was a group project and I was in charge for the log in feature of the web app.
 
+Note the file cannot be uploaded due to large file size. To view file click on the link below:
+https://drive.google.com/drive/folders/10vv_zDIZg4gR_ak7ohAAQe1QbV9aP5KO?usp=sharing
+
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/123933314/215923769-4f197b43-9d9c-4bc3-bf72-50dba3a64bd7.png)
 ![image (1)](https://user-images.githubusercontent.com/123933314/215923782-8311821e-2ea0-4f6d-88cb-f420813fea17.png)
@@ -12,4 +15,4 @@ This was coded using PHP and MySQL as its database. This was a group project and
 ![Capture](https://user-images.githubusercontent.com/123933314/215924469-182af91d-5897-46e1-9e97-23db1f9b4ab1.JPG)
 
 ## Demo Video
-https://user-images.githubusercontent.com/123933314/215923863-b718cd9e-1bd0-4658-a750-158f7e1afe41.mp4
+https://drive.google.com/drive/folders/10vv_zDIZg4gR_ak7ohAAQe1QbV9aP5KO?usp=sharing
